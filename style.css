@@ -9,12 +9,13 @@ body {
 }
 
 /* header */
-header, p{
-  line-height: 40%;
+header {
+  line-height: 150%;
 }
 
 .brief {
   margin: 50px 0;
+  line-height: 150%;
 }
 
 .photo {
@@ -30,3 +31,5 @@ header, p{
 li {
   padding-bottom: 10px;
 }
+
+/* table wrkexp */
